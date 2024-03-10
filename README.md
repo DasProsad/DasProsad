@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DasProsad)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=DasProsad&theme=radical)](https://git.io/streak-stats) 
 
 - 👋 Hi, I’m Prosad
 - 👀 I’m interested in bioinformatics and computer science
