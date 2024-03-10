@@ -46,7 +46,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasprosad&show_icons=true&locale=en&theme=merko" alt="dasprosad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasprosad&" alt="dasprosad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasprosad&theme=merko" alt="dasprosad" /></p>
 
 
 
