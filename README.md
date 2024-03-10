@@ -40,7 +40,7 @@
 <a href="https://medium.com/@daspro$ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daspro$ad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pkd18ip002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pkd18ip002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prosad_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prosad_das" height="30" width="40" /></a>
-<a href="https://www.biostars.org/u/112621/" target="blank"><img align="center" src="https://github.com/DasProsad/DasProsad/blob/main/biostars.svg" alt="prosad_das" height="50" width="100" /></a>
+<a href="https://www.biostars.org/u/112621/" target="blank"><img align="center" src="https://github.com/DasProsad/DasProsad/blob/main/biostars.svg" alt="prosad_das" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
