@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasprosad" alt="dasprosad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_sazabad" target="blank"><img src="https://img.shields.io/twitter/follow/_sazabad?logo=twitter&style=for-the-badge" alt="_sazabad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_sazabad" target="blank"><img src="https://img.shields.io/twitter/follow/_sazabad?logo=twitter&style=plastic" alt="_sazabad" /></a> </p>
 
 - 🔭 I’m currently working on **Bioinformatics**
 
