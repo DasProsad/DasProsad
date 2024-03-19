@@ -15,7 +15,7 @@
 <h1 align="center">Hi 👋, I'm Prosad Kumar Das</h1>
 <h3 align="center">Graduate student working on genomics and computational biology</h3>
 
-<p><img align="center"> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) /></p>
+align="center" [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasprosad&label=Profile%20views&color=f57900&style=plastic" alt="dasprosad" /> </p>
 
