@@ -16,7 +16,9 @@
 <h3 align="center">Graduate student working on genomics and computational biology</h3>
 
 <div align="center">
+  
 <a href="https://github.com/piyushsuthar/github-readme-quotes">![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?border=true)</a>
+
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasprosad&label=Profile%20views&color=f57900&style=plastic" alt="dasprosad" /> </p>
