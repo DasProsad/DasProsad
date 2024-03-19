@@ -53,3 +53,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasprosad&show_icons=true&theme=tokyonight&locale=en" alt="dasprosad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasprosad&theme=tokyonight" alt="dasprosad" /></p>
+
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prosad Kumar Das
+========================================================================================================================================
+
+Graduate Student Working on Genomics and Computational Biology
+--------------------------------------------------------------
+
+*   🌍  I'm based in New Delhi
+*   🖥️  See my portfolio at [My Personal Website](http://dasprosad.github.io)
+*   ✉️  You can contact me at [prosaddas888@gmail.com](mailto:prosaddas888@gmail.com)
+*   🧠  I'm learning Data Science and Bioinformatics
+*   🤝  I'm open to collaborating on Bioinformatics, Genomics, Sequencing, NGS, Python and Golang
