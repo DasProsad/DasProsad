@@ -12,7 +12,7 @@
 - My linkedin profile: ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white) -->
 
 
-<h1 align="center">Hi ,👋 I'm Prosad Kumar Das</h1>
+<h1 align="center">Hi 👋, I'm Prosad Kumar Das</h1>
 <h3 align="center">Graduate student working on genomics and computational biology</h3>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
