@@ -58,9 +58,9 @@
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasprosad&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dasprosad" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasprosad&show_icons=true&theme=tokyonight&locale=en" alt="dasprosad" /></p>
 
-<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasprosad&theme=tokyonight" alt="dasprosad" /></p>
 
 
