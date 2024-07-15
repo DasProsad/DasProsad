@@ -55,7 +55,7 @@
 <h3 align="left">My skills:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,vim,docker,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,python,bash,c,cpp,vim,anaconda,docke,latex,r," />
   </a>
 </p>
 
