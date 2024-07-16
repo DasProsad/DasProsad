@@ -53,7 +53,7 @@
 </p>
 
 <h3 align="left">My skills:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,bash,cpp,vim,anaconda,docker,git" />
   </a>
