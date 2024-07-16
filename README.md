@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=python,bash,c++,vim,anaconda,docker,git" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=python,bash,cplusplus,vim,anaconda,docker,git" />
   </a>
 </p>
 
