@@ -52,10 +52,16 @@
 <a href="https://www.biostars.org/u/112621/" target="blank"><img align="center" src="https://github.com/DasProsad/DasProsad/blob/main/biostars.svg" alt="prosad_das" height="30" width="100" /></a>
 </p>
 
-<h3 align="left">My skills:</h3>
+<h3 align="left">I have experience in:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,bash,cpp,vim,anaconda,docker,git" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="[BASE_URL]?i=react,node.js,docker,mongodb,postgresql,awslambda" />
   </a>
 </p>
 
