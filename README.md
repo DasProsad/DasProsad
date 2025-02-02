@@ -54,7 +54,7 @@
 <h3 align="left">I have experience in:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,debain,docker,git,latex," />
   </a>
 </p>
 
