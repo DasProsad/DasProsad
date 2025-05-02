@@ -1,18 +1,4 @@
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=DasProsad&theme=merko)](https://git.io/streak-stats) -->
-<!-- 📈 my github stats
-![Prosad's GitHub stats](https://github-readme-stats.vercel.app/api?username=DasProsad&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasProsad&layout=compact&color=green)
-![](https://komarev.com/ghpvc/?username=DasProsad&color=green)
-
-- 👋 Hi, I’m Prosad
-- 👀 I’m interested in Bioinformatics and Computer Science
-- 🌱 I’m currently learning Bioinformatics
-- 💞️ I’m looking to collaborate on genomic analysis and tool development
-- 📫 Reach me at pkd18ip002@iiserkol.ac.in
-- My linkedin profile: ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white) -->
-
-
-<h1 align="center">Hi 👋, I'm Prosad!</h1>
+<h1 align="center">Hi, I'm Prosad!</h1>
 <h3 align="center">I am working on Genomics and Computational Biology</h3>
 
 <div align="center">
@@ -23,13 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasprosad&label=Profile%20views&color=f57900&style=plastic" alt="dasprosad" /> </p>
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasprosad" alt="dasprosad" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_sazabad" target="blank"><img src="https://img.shields.io/twitter/follow/_sazabad?logo=twitter&style=plastic" alt="_sazabad" /></a> </p>
-
--->
-
 - 🔭 I’m currently working on **Genomics and Bioinformatics**
 
 - 🌱 I’m currently learning **Data Science**
@@ -38,18 +17,14 @@
 
 - 📝 I regularly write articles on [dasprosad.github.io](dasprosad.github.io)
 
-- 💬 Ask me about **Anything {Genomics,Genetics,CRISPR,Python,Linux}**
+- 💬 Ask me about **Genomics,Genetics,CRISPR-Cas,Python,Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_sazabad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sazabad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prosaddas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prosaddas" height="30" width="40" /></a>
 <a href="https://medium.com/@daspro$ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daspro$ad" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pkd18ip002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pkd18ip002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prosad_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prosad_das" height="30" width="40" /></a>
-<a href="https://www.biostars.org/u/112621/" target="blank"><img align="center" src="https://github.com/DasProsad/DasProsad/blob/main/biostars.svg" alt="prosad_das" height="30" width="100" /></a>
 </p>
-
 
 <h3 align="left">I have experience in:</h3>
 <p align="left">
@@ -57,15 +32,6 @@
     <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,debian,docker,git,latex," />
   </a>
 </p>
-
-<!--
-<h3 align="left">I have experience in:</h3>
-<p align="left">
-  <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=python,gnubash,cplusplus,vim,anaconda,docker" />
-  </a>
-</p>
--->
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
