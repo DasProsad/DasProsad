@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prosad!</h1>
-<h3 align="center">I am working on Genomics and Computational Biology</h3>
+<h3 align="center">I am working on Personalised Genomics and CRISPR-Cas Biology</h3>
 
 <div align="center">
   
