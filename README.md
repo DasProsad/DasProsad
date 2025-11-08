@@ -7,7 +7,7 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasprosad&label=Profile%20views&color=f57900&style=plastic" alt="dasprosad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasprosad&label=Profile%20views&color=blue&style=flat-square" alt="dasprosad" /> </p>
 
 - 🔭 I’m currently working on **Genomics and Bioinformatics**
 
