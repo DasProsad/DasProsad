@@ -11,13 +11,7 @@
 
 - 🔭 I’m currently working on **Genomics and Bioinformatics**
 
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 I’m looking to collaborate on **Genomics and Bioinformatics**
-
 - 📝 I regularly write articles on [dasprosad.github.io](dasprosad.github.io)
-
-- 💬 Ask me about **Genomics,Genetics,CRISPR-Cas,Python,Linux**
 
 <!--
 <h3 align="left">Connect with me:</h3>
