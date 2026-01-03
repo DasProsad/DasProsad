@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Prosad!</h1>
 <h3 align="center">I am working on Personalised Genomics and CRISPR-Cas Biology</h3>
 
+<!--
 <div align="center">
   
 <a href="">![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?border=true)</a>
 
 </div>
+-->
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasprosad&label=Profile%20views&color=blue&style=flat-square" alt="dasprosad" /> </p>
 -->
@@ -23,7 +25,7 @@ I work on CRISPR-Cas-based genomic technologies and genomic medicine. I write bi
 <h3 align="left">I have experience in:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,debian,docker,git,latex," />
+    <img src="https://skillicons.dev/icons?i=git,python,c,bash,linux,ubuntu,docker," />
   </a>
 </p>
 
