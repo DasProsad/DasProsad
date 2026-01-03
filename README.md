@@ -9,7 +9,7 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasprosad&label=Profile%20views&color=blue&style=flat-square" alt="dasprosad" /> </p>
 -->
-- I work on CRISPR-Cas-based genomic technologies and genomic medicine. I write bioinformatic tools and create pipelines for the analysis of NGS data. I regularly write articles on my homepage [dasprosad.github.io](dasprosad.github.io)
+I work on CRISPR-Cas-based genomic technologies and genomic medicine. I write bioinformatic tools and create pipelines for the analysis of NGS data. I regularly write articles on my homepage [dasprosad.github.io](dasprosad.github.io)
 
 <!--
 <h3 align="left">Connect with me:</h3>
