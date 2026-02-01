@@ -1,6 +1,6 @@
 # Prosad Kumar Das
 
-Hi there :wave: !, I'm Prosad, a Bioinformatican by :computer: by profession. I am working on Personalised Genomics and CRISPR-Cas Biology and I regularly write articles on my [homepage](https://dasprosad.github.io).
+Hi there :wave: !, I'm Prosad, a Bioinformatican :computer: by profession. I am working on Personalised Genomics and CRISPR-Cas Biology :dna:. I regularly write articles on my [homepage](https://dasprosad.github.io).
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dasprosad)
 
@@ -25,14 +25,13 @@ Hi there :wave: !, I'm Prosad, a Bioinformatican by :computer: by profession. I 
 
 ## Intermediate
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Julia](https://img.shields.io/badge/Julia-389826?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
 [![Nim](https://img.shields.io/badge/Nim-F3D400?style=for-the-badge&logo=nim&logoColor=black)](https://nim-lang.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
 ## Beginner
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 # 🗄 Frameworks
 
