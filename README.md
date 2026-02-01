@@ -36,6 +36,7 @@ Hi there :wave: !, I'm Prosad, a Bioinformatican :computer: by profession. I am 
 # 🗄 Frameworks
 
 [![GNU Make](https://img.shields.io/badge/GNU_Make-4E9A06?style=for-the-badge&logo=gnu-make&logoColor=white)](https://www.gnu.org/software/make/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Nextflow](https://img.shields.io/badge/Nextflow-0A8F78?style=for-the-badge&logo=nextflow&logoColor=white)](https://www.nextflow.io/)
 
 # 🛠 Tools
