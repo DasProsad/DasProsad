@@ -35,9 +35,7 @@ Hi there :wave: !, I'm Prosad, a Bioinformatican :computer: by profession. I am 
 
 # 🗄 Frameworks
 
-[![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
-[![libc](https://img.shields.io/badge/libc-000000?style=for-the-badge&logo=gnu&logoColor=white)](https://en.wikipedia.org/wiki/C_standard_library)
-[![GNU Make](https://img.shields.io/badge/GNU_Make-8BC34A?style=for-the-badge&logo=gnu-make&logoColor=white)](https://www.gnu.org/software/make/)
+[![GNU Make](https://img.shields.io/badge/GNU_Make-4E9A06?style=for-the-badge&logo=gnu-make&logoColor=white)](https://www.gnu.org/software/make/)
 [![Nextflow](https://img.shields.io/badge/Nextflow-0A8F78?style=for-the-badge&logo=nextflow&logoColor=white)](https://www.nextflow.io/)
 
 # 🛠 Tools
@@ -45,7 +43,7 @@ Hi there :wave: !, I'm Prosad, a Bioinformatican :computer: by profession. I am 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![GNU Make](https://img.shields.io/badge/GNU_Make-4E9A06?style=for-the-badge&logo=gnu-make&logoColor=white)](https://www.gnu.org/software/make/)
-[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
 # 💻 OS
@@ -53,4 +51,3 @@ Hi there :wave: !, I'm Prosad, a Bioinformatican :computer: by profession. I am 
 [![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/big-sur/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-[![Unix-like](https://img.shields.io/badge/Unix--like-000000?style=for-the-badge&logo=unix&logoColor=white)](https://en.wikipedia.org/wiki/Unix-like)
