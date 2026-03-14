@@ -55,4 +55,4 @@ Hi there :wave: !, I'm Prosad, a Bioinformatican :computer: by profession. I am 
 
 # Programming language stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasprosad&layout=compact&exclude_lang=jupyter%20notebook,html,css,scss,javascript&cache_seconds=1&exclude_repo=dasprosad.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasprosad&layout=compact&exclude_lang=jupyter%20notebook,html,css,scss,javascript&cache_seconds=1&exclude_repo=dasprosad.github.io,ann-from-scratch,Circuitseq,Zika-RNAseq-Pipeline,booking-ticket-server,worm-sim)
