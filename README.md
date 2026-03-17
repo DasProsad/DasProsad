@@ -1,6 +1,6 @@
 # Prosad Kumar Das
 
-Hi there :wave: !, I'm Prosad, a Bioinformatican by profession. I am working on Personalised Genomics and CRISPR-Cas Biology. I regularly write articles on my [homepage](https://dasprosad.github.io).
+Hi there :wave: ! welcome to my GitHub profile. I'm Prosad, currently doing my Ph.D in **Bioinformatics** and **Genomics** at CSIR-Institute of Genomics and Integrative Biology (IGIB). I am working on personalised genomics and CRISPR-Cas biology. I regularly write articles on my [homepage](https://dasprosad.github.io).
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdasprosad&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdasprosad)
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=DasProsad&countColor=%237B1E7A)
