@@ -1,4 +1,4 @@
-# Prosad Kumar Das
+## Prosad Kumar Das
 
 Hi there :wave: ! welcome to my GitHub profile. I'm Prosad, currently doing my Ph.D in **Bioinformatics** and **Genomics** at CSIR-Institute of Genomics and Integrative Biology (IGIB). I am working on personalised genomics and CRISPR-Cas biology. I regularly write articles on my [homepage](https://dasprosad.github.io).
 
