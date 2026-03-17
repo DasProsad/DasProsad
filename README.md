@@ -3,7 +3,7 @@
 Hi there :wave: !, I'm Prosad, a Bioinformatican by profession. I am working on Personalised Genomics and CRISPR-Cas Biology. I regularly write articles on my [homepage](https://dasprosad.github.io).
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dasprosad&style=for-the-badge&color=22c55e)
-![Visitors](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Visitors&color=22c55e&query=value&url=https://api.countapi.xyz/hit/DasProsad.YAFAX)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=DasProsad&countColor=%237B1E7A)
 
 ## 📫 How to reach me
 
