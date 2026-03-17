@@ -54,6 +54,6 @@ Hi there :wave: ! welcome to my GitHub profile. I'm Prosad, currently doing my P
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
-## Programming language stats
+## Here are the languages I use most
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasprosad&layout=compact&exclude_lang=jupyter%20notebook,html,css,scss,javascript&cache_seconds=1&exclude_repo=dasprosad.github.io,ann-from-scratch,Circuitseq,Zika-RNAseq-Pipeline,booking-ticket-server,worm-sim)
