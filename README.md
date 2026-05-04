@@ -13,8 +13,7 @@ Hi there :wave: ! welcome to my GitHub profile. I'm Prosad, currently doing my P
 
 ## 🌱 Currently Learning
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-2B5F9E?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
+![Scratch](https://img.shields.io/badge/Scratch-FF6F00?style=for-the-badge&logo=scratch&logoColor=white)
 
 ## 📝 Languages
 
