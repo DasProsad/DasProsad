@@ -13,29 +13,28 @@ Hi there :wave: ! welcome to my GitHub profile. I'm Prosad, currently doing my P
 
 ## 🌱 Currently Learning
 
-![Scratch](https://img.shields.io/badge/Scratch-FF6F00?style=for-the-badge&logo=scratch&logoColor=white)
+![Alice](https://img.shields.io/badge/Alice-3D%20Programming-2E8B57?style=for-the-badge)
 
 ## 📝 Languages
 
 ### Proficient
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+![Scratch](https://img.shields.io/badge/Scratch-FF6F00?style=for-the-badge&logo=scratch&logoColor=white)
 
 ### Intermediate
 
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+![Snap!](https://img.shields.io/badge/Snap!-Visual%20Programming-8A2BE2?style=for-the-badge)
 
 ### Beginner
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+![Blockly](https://img.shields.io/badge/Blockly-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## 🗄 Frameworks
 
-[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+![LEGO](https://img.shields.io/badge/Framework-LEGO-FFCF00?style=for-the-badge)
 
 ## 🛠 Tools
 
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
 ## 💻 OS
