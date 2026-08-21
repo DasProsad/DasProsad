@@ -4,6 +4,8 @@
  * Ph.D. in Bioinformatics at CSIR_IGIB and AcSIR (2024-)
    * [RNA Biology Lab](https://www.rnabiologylab.co.in/)
  * MS in Biological Sciences, IISER-Kolkata (2018-2021)
+   * [Molecular Signalling Lab](https://molecularsignalinglab513922014.wordpress.com) (2020-2021)
+   * [Lab of Regulatory Biology](http://regulatorybiologylab.com) (2018-2020)
  * [Google Scholar](https://scholar.google.com/citations?user=LcmPOrUAAAAJ)
  * [Curriculum Vitae](https://raw.githubusercontent.com/dasprosad/personal-cv/refs/heads/main/CV_prosad_k_das.pdf)
 
@@ -29,3 +31,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat-square&logo=nextflow&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### Here are the languages I use most
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasprosad&layout=compact&exclude_lang=jupyter%20notebook,html,css,scss,javascript&cache_seconds=1&exclude_repo=dasprosad.github.io,ann-from-scratch,Circuitseq,Zika-RNAseq-Pipeline,booking-ticket-server,worm-sim)
