@@ -3,10 +3,6 @@
 ### 👨‍💻 Bio
  * Ph.D. in Bioinformatics at CSIR-IGIB and AcSIR (2024-)
    * [RNA Biology Lab](https://www.rnabiologylab.co.in/)
- * Research Project Associate, CSIR-IGIB
-   * [RNA Biology Lab](https://www.rnabiologylab.co.in/) (2022-2024)
- * Junior Research Fellow, IISER-Kolkata
-   * [Molecular Signalling Lab](https://molecularsignalinglab513922014.wordpress.com) (2021-2022)
  * MS in Biological Sciences, IISER-Kolkata (2018-2021)
    * [Molecular Signalling Lab](https://molecularsignalinglab513922014.wordpress.com) (2020-2021)
    * [Lab of Regulatory Biology](http://regulatorybiologylab.com) (2018-2020)
